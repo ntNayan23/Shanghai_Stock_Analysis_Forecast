@@ -47,14 +47,14 @@ To set up and run the app, follow these steps:
  streamlit run app.py
 ```
 
-## 📊 Usage
-1. **Select a company** from the sidebar dropdown.
-2. View **historical stock price trends**.
+📊 Usage
+1.Select a company from the sidebar dropdown.
+2. View historical stock price trends**.
 3. Perform **ARIMA-based forecasting**.
 4. Compare **forecasted vs. actual prices**.
 5. Analyze **residual errors**.
 
-## 📂 Project Structure
+📂 Project Structure
 ```
 ├── app.py                 # Main Streamlit app
 ├── Shanghai.csv           # Stock dataset
@@ -63,20 +63,21 @@ To set up and run the app, follow these steps:
 
 ```
 
-## 🛠 To-Do / Future Enhancements
-- [ ] **Optimize ARIMA parameters** automatically.
-- [ ] **Allow multiple stock selection** for side-by-side analysis.
-- [ ] **Integrate Deep Learning models** (LSTM, Prophet) for better predictions.
-- [ ] **Deploy the app** on Streamlit Sharing or AWS.
+🛠 To-Do / Future Enhancements
+- Optimize ARIMA parameters automatically.
+- Allow multiple stock selection for side-by-side analysis.
+- Integrate Deep Learning models** (LSTM, Prophet) for better predictions.
+- Deploy the app on Streamlit Sharing or AWS.
 
-## 🤝 Contributing
+🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, create a branch, and submit a pull request.
 
-## 📝 License
-This project is licensed under the **MIT License**.
+ 📝 License
+This project is licensed under the **MIT License.
 
 ---
-💡 **Author**: Nayan Thakre  
-📧 **Contact**: Nayanthakre379@gmail.com 
-🌍 **GitHub**: [ntNayan23](https://github.com/ntNayan23)
+💡 Author: Nayan Thakre,Soham Parsodkar
+📧 Contact: nayanthakre379@gmail.com,connectsohamparsodkar@gmail.com 
+🌍 GitHub: [ntNayan23](https://github.com/ntNayan23)
+[SohamParsodkar19](https://github.com/SohamParsodkar19)
 
