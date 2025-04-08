@@ -75,8 +75,8 @@ Contributions are welcome! Feel free to fork the repo, create a branch, and subm
 This project is licensed under the **MIT License**.
 
 ---
-💡 **Author**: Nayan Thakre,Soham Parsodkar
-📧 **Contact**: nayanthakre379@gmail.com,connectsohamparsodkar@gmail.com 
-🌍 **GitHub** : [ntNayan23](https://github.com/ntNayan23)
-[SohamParsodkar19](https://github.com/SohamParsodkar19)
+💡 **Author**: Nayan Thakre, Soham Parsodkar  
+📧 **Contact**: nayanthakre379@gmail.com, connectsohamparsodkar@gmail.com  
+🌍 **GitHub**: [ntNayan23](https://github.com/ntNayan23), [SohamParsodkar19](https://github.com/SohamParsodkar19)
+
 
